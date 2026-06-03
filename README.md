@@ -26,3 +26,16 @@ This Power BI dashboard analyzes mobile sales data and provides insights into sa
 - Customer Rating Analysis
 - Interactive Slicers
 
+## 📌 Key Insights
+- 📱 **Samsung** top selling brand
+- 💳 **UPI** most preferred payment method
+- 📈 **Q4** highest sales quarter
+- ⭐ Average customer rating: **4.2/5**
+
+  ## 🎯 Business Impact
+This dashboard helps businesses:
+- Identify top-performing mobile brands
+- Understand customer payment preferences
+- Track monthly & quarterly sales trends
+- Make data-driven inventory decisions
+
